@@ -1,2 +1,2 @@
 # Fisica Computacional
- Simulações
+ Este código é uma simulação de dinâmica molecular muito simples que cria partículas aleatórias em um espaço bidimensional e as move de acordo com velocidades aleatórias. Note que esta é uma simulação extremamente simplificada e não reflete a dinâmica molecular real, que envolve cálculos muito mais complexos e interações entre partículas. Este código é apenas um exemplo didático para fins de aprendizado.
